@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maghish</h1>
 <h3 align="center">I am a programming student, and passionate back-end python developer.</h3>
 
-- 🔭 I’m currently working on **Animetrix and other open-source projects**
+- 🔭 I’m currently working on **Animetrix (Discord Bot) and other open-source projects**
 
 - 🌱 I’m currently learning **Django, Javascript and Discord.py**
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
-- 🤝 I’m looking for help with **Back-end using Python**
+- 🤝 I’m looking for help with **Back-end using Python and Discord.py**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
