@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maghish</h1>
+<h1 align="center">Hello 👋, I'm Maghish</h1>
 <h3 align="center">I am a programming student, and passionate back-end python developer.</h3>
 
 - 🔭 I’m currently working on **Animetrix (Discord Bot) and other open-source projects**
