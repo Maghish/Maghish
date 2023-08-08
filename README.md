@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maghish</h1>
 <h3 align="center">I am a programming student, and passionate back-end python developer.</h3>
-
+<br>
 - 🔭 I’m currently working on **Animetrix and other open-source projects**
 
 - 🌱 I’m currently learning **Django, Javascript and Discord.py**
