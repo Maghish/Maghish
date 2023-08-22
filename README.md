@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Back-end using Python and Discord.py**
 
-- 📽️ My Projects - [Simple-Wiki](https://github.com/Maghish/Simple-Wiki), [E-Commerce](https://github.com/Maghish/E-Commerce)
+- 📽️ My Projects [Simple-Wiki](https://github.com/Maghish/Simple-Wiki), [E-Commerce](https://github.com/Maghish/E-Commerce)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
