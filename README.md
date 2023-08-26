@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Animetrix (Discord Bot) and other open-source projects**
 
-- 🌱 I’m currently learning **Django, Javascript and Discord.py**
+- 🌱 I’m currently learning **Django, Javascript, High Level Machine Learning and Deep Learning in Python**
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
