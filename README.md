@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Maghish</h1>
 <h3 align="center">I am a programming student, and passionate back-end python developer.</h3>
 
-- 🔭 I’m currently working on **Animetrix (Discord Bot) and other open-source projects**
+- 🔭 I’m currently working on **DeliverEase (open-source) project**
 
-- 🌱 I’m currently learning **Django, Javascript, High Level Machine Learning and Deep Learning in Python**
+- 🌱 I’m currently learning **Django, Javascript, High Level Machine Learning and Deep Learning in Python, Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
