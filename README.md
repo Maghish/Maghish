@@ -8,6 +8,8 @@
 - 👯 I’m looking to collaborate on **Open-source projects**
 
 - 🤝 I’m looking for help with **Back-end using Python and Discord.py**
+  
+- 😄 Pronouns: **He/Him**
 
 - 📽️ My Projects [Simple-Wiki](https://github.com/Maghish/Simple-Wiki), [E-Commerce](https://github.com/Maghish/E-Commerce)
 
