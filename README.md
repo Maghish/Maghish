@@ -15,7 +15,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,firebase,md,tailwind,vscode,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,react,firebase,vite,md,tailwind,vscode,git&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Maghish&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
