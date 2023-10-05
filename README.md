@@ -1,5 +1,5 @@
-<h1>Hello 👋, I'm Maghish</h1>
-<h3>I am a programming student, and passionate back-end python developer.</h3>
+<h1 align="start">Hello 👋, I'm Maghish</h1>
+<h3 align="start">I am a programming student, and passionate back-end python developer.</h3>
 
 - 🔭 I’m currently working on **DeliverEase (open-source) project**
 
