@@ -1,7 +1,7 @@
 <h1 align="start">Hello 👋, I'm Maghish</h1>
 <h3 align="start">I am a programming student, and passionate back-end python developer.</h3>
 
-- 🔭 I’m currently working on **DeliverEase (open-source) project**
+- 🔭 I’m currently working on **DeliverEase (open-source) project and other projects**
 
 - 🌱 I’m currently learning **Javascript, React.js, Vite.js , High Level Machine Learning and Deep Learning in Python, Tailwind CSS**
 
