@@ -18,7 +18,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,react,firebase,vite,md,tailwind,vscode,git&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Maghish&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maghish&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
