@@ -26,6 +26,7 @@
 
 ## 🥇 Badges:
 [![An image of @maghish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maghish)](https://holopin.io/@maghish)
+
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Maghish&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
