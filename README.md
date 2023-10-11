@@ -25,7 +25,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Maghish&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🥇 Badges:
-
+[![](https://holopin.me/maghish)](https://holopin.io/@maghish)
 
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Maghish&limit=5&theme=dark&combine_all_yearly_contributions=true)
