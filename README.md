@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DeliverEase (open-source) project and other projects**
 
-- 🌱 I’m currently learning **Javascript, React.js, Vite.js , High Level Machine Learning and Deep Learning in Python, Tailwind CSS**
+- 🌱 I’m currently learning **Javascript, React.js, High Level Machine Learning and Deep Learning in Python, Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
@@ -18,7 +18,10 @@
 [![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,react,firebase,vite,md,tailwind,vscode,git&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maghish&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Maghish&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maghish&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Maghish&theme=merko&hide_border=false)
+
 
 
 ## 🏆 GitHub Trophies:
