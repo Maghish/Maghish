@@ -22,7 +22,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maghish&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Maghish&theme=merko&hide_border=false)
 
-
+## 🔝 Top Contributed Repo:
+![](https://github-contributor-stats.vercel.app/api?username=Maghish&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Maghish&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -30,6 +31,8 @@
 ## 🥇 Badges:
 [![](https://holopin.me/maghish)](https://holopin.io/@maghish)
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Maghish&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+Thank you for viewing my profile! 👋
+
+
 
