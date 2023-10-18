@@ -11,8 +11,6 @@
   
 - 😄 Pronouns: **He/Him**
 
-- 📽️ My Projects [Simple-Wiki](https://github.com/Maghish/Simple-Wiki), [E-Commerce](https://github.com/Maghish/E-Commerce)
-
  
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,react,firebase,vite,md,tailwind,vscode,git&theme=dark)](https://skillicons.dev)
