@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Javascript, React.js, High Level Machine Learning and Deep Learning in Python, Tailwind CSS**
 
-- 👯 I’m looking to collaborate on **Open-source projects**
+- 🤝 I’m looking to collaborate on **Open-source projects**
 
-- 🤝 I’m looking for help with **Back-end using Python and Discord.py**
+- ✋ I’m looking for help with **Back-end using Python and Discord.py**
   
 - 😄 Pronouns: **He/Him**
 
