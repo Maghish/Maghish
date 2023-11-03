@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DeliverEase (open-source) project and other projects**
 
-- 🌱 I’m currently learning **Javascript, React.js, High Level Machine Learning and Deep Learning in Python, Tailwind CSS**
+- 🌱 I’m currently learning **Javascript, React.js, High Level Machine Learning and Deep Learning in Python, Tailwind CSS, Figma**
 
 - 🤝 I’m looking to collaborate on **Open-source projects**
 
