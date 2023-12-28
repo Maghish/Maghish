@@ -1,13 +1,11 @@
 <h1 align="start">Hello 👋, I'm Maghish</h1>
 <h3 align="start">I am a programming student, and passionate back-end python developer.</h3>
 
-- 🔭 I’m currently working on **DeliverEase (open-source) project and other projects**
-
-- 🌱 I’m currently learning **Javascript, React.js, Machine Learning in Python, Tailwind CSS, Figma and GraphQL**
+- 🌱 I’m currently learning **Node.js, React.js, Tailwind CSS, Figma and GraphQL**
 
 - 🤝 I’m looking to collaborate on **Open-source projects**
 
-- ✋ I’m looking for help with **Back-end using Python and Discord.py**
+- ✋ I’m looking for help with **Django Back-end, React Front-end, discord.py**
   
 - 😄 Pronouns: **He/Him**
 
