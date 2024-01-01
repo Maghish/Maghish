@@ -14,15 +14,19 @@
 [![My Skills](https://skillicons.dev/icons?i=py,django,graphql,react,firebase,vite,tailwind,html,css,js,md,vscode,git&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Maghish&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maghish&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Maghish&theme=merko&hide_border=false)
+![Maghish's Stats](https://github-readme-stats.vercel.app/api?username=Maghish&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+<br/>
+![Maghish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maghish&theme=monokai&hide_border=false)
+<br/>
+![Maghish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maghish&theme=monokai&show_icons=true&hide_border=false&layout=compact)
+
+
 
 ## 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Maghish&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Maghish&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Maghish&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Maghish&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 Thank you for viewing my profile! 👋
 
