@@ -28,6 +28,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Maghish&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<978672079291449424>)
+
 Thank you for viewing my profile! 👋
 
 
