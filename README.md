@@ -21,12 +21,15 @@
 ![Maghish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maghish&theme=monokai&show_icons=true&hide_border=false&layout=compact)
 
 
-
 ## 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Maghish&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Maghish&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zyaag4xxnwm2c4fvq3t3lncmty&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31zyaag4xxnwm2c4fvq3t3lncmty&redirect=true)
+
 
 Thank you for viewing my profile! 👋
 
