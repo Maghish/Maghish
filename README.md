@@ -1,7 +1,7 @@
 <h1 align="start">Hello 👋, I'm Maghish</h1>
-<h3 align="start">I am a programming student, and passionate back-end python developer.</h3>
+<h3 align="start">I am a programming student,a passionate full-stack developer and AI enthusiast .</h3>
 
-- 🌱 I’m currently learning **Node.js, React.js, Tailwind CSS, Figma and GraphQL**
+- 🌱 I’m currently learning **Node.js, React.js, Tailwind CSS, Figma, GraphQL and Machine Learning**
 
 - 🤝 I’m looking to collaborate on **Open-source projects**
 
