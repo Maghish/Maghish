@@ -14,11 +14,14 @@
 [![My Skills](https://skillicons.dev/icons?i=py,django,graphql,react,firebase,vite,tailwind,html,css,js,md,vscode,git&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![Maghish's Stats](https://github-readme-stats.vercel.app/api?username=Maghish&theme=monokai&show_icons=true&hide_border=false&count_private=true)
-![Maghish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maghish&theme=monokai&hide_border=false)
-<br/>
-<br/>
 ![Maghish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maghish&theme=monokai&show_icons=true&hide_border=false&layout=compact)
+<br/>
+![Maghish's Stats](https://github-readme-stats.vercel.app/api?username=Maghish&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+<br/>
+![Maghish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maghish&theme=monokai&hide_border=false)
+
+
+
 
 
 ## 🔝 Top Contributed Repo:
