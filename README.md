@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking to collaborate on **Open-source projects**
 
-- ✋ I’m looking for help with **Django Back-end, React Front-end, discord.py**
+- ✋ I’m looking for help with **Full-stack web apps using Django and React, discord.py**
   
 - 😄 Pronouns: **He/Him**
 
