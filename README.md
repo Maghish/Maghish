@@ -2,11 +2,8 @@
 <h3 align="start">I am a programming student, a passionate full-stack developer and AI enthusiast .</h3>
 
 - 🌱 I’m currently learning **Node.js, React.js, Tailwind CSS, Figma, GraphQL and Machine Learning**
-
 - 🤝 I’m looking to collaborate on **Open-source projects**
-
 - ✋ I’m looking for help with **Full-stack web apps using Django and React, discord.py**
-  
 - 😄 Pronouns: **He/Him**
 
  
