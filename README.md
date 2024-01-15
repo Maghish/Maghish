@@ -8,7 +8,7 @@
 
  
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,django,graphql,react,firebase,vite,tailwind,html,css,js,md,vscode,git,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,graphql,nodejs,react,firebase,vite,tailwind,html,css,js,md,vscode,git,docker&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 
