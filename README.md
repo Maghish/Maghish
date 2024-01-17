@@ -25,6 +25,3 @@
 
 
 Thank you for viewing my profile! 👋
-
-
-
