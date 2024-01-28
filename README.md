@@ -1,7 +1,7 @@
 <h1 align="start">Hello 👋, I'm Maghish</h1>
 <h3 align="start">I'm a programming student, a passionate Full-Stack developer and AI enthusiast.</h3>
 
-- 🌱 I’m currently learning **Node.js, React.js, Figma, Machine Learning, Data Structures and Alogthrims**
+- 🌱 I’m currently learning **Node.js, React.js, Figma, Machine Learning, Data Structures and Algothrims**
 - 🤝 I’m looking to collaborate on **Open-source projects**
 - ✋ I’m looking for help with **Full-stack web apps using Django and React, discord.py**
 - 😄 Pronouns: **He/Him**
