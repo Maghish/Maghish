@@ -12,9 +12,15 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Maghish&theme=monokai&show_icons=true&hide_border=false&count_private=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maghish&theme=monokai&hide_border=false">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maghish&theme=monokai&show_icons=true&hide_border=false&layout=compact">
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maghish&theme=monokai&hide_border=false">
+</div>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Maghish&theme=monokai&show_icons=true&hide_border=false&count_private=true">
+</div>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maghish&theme=monokai&show_icons=true&hide_border=false&layout=compact">
+</div>
 
 
 ## 🔝 Top Contributed Repo:
