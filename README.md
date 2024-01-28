@@ -11,17 +11,9 @@
 [![My Skills](https://skillicons.dev/icons?i=py,django,graphql,nodejs,react,firebase,vite,tailwind,html,css,js,md,vscode,git,docker&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maghish&theme=monokai&hide_border=false">
-</div>
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Maghish&theme=monokai&show_icons=true&hide_border=false&count_private=true">
-</div>
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maghish&theme=monokai&show_icons=true&hide_border=false&layout=compact">
-</div>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maghish&theme=monokai&hide_border=false">
+<img src="https://github-readme-stats.vercel.app/api?username=Maghish&theme=monokai&show_icons=true&hide_border=false&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maghish&theme=monokai&show_icons=true&hide_border=false&layout=compact">
 
 ## 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Maghish&limit=5&theme=monokai&combine_all_yearly_contributions=true)
