@@ -11,8 +11,12 @@
 [![My Skills](https://skillicons.dev/icons?i=py,django,mongodb,express,react,nodejs,typescript,firebase,vite,tailwind,html,css,js,graphql,vercel,md,vscode,git,docker&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
+<div>
+
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maghish&theme=monokai&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=Maghish&theme=monokai&show_icons=true&hide_border=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+</div>
 
 <div align='center'>
 
