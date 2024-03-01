@@ -15,7 +15,7 @@
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maghish&theme=monokai&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=Maghish&theme=monokai&show_icons=true&hide_border=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aMaghish&layout=donut&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maghish&layout=donut&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Maghish&limit=5&theme=monokai&combine_all_yearly_contributions=true)
