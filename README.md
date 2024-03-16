@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Figma, Machine Learning, Data Structures and Algothrims**
 - 🤝 I’m looking to collaborate on **Open-source projects**
-- ✋ I’m looking for help with **Full-stack web apps using Django and React, discord.py**
+- ✋ I’m looking for help with **Full-stack web apps using MERN Stack, Django, Python, JavaScript and discord.py**
 - 😄 Pronouns: **He/Him**
 
  
