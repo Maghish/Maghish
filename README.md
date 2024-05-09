@@ -4,8 +4,7 @@
 <h3 align="start">I'm a programming student, a passionate Full-Stack developer and AI enthusiast.</h3>
 
 - 🌱 I’m currently learning **Figma, Machine Learning, Data Structures and Algothrims**
-- 🤝 I’m looking to collaborate on **Open-source projects**
-- ✋ I’m looking for help with **Full-stack web apps using MERN Stack, Django, Python, JavaScript and discord.py**
+- 🤝 I’m looking to collaborate on **MERN Stack, Next.js, Django, Discord.py and Discord.js**
 - 😄 Pronouns: **He/Him**
 - 🌐 [My Portfolio](https://maghi-portfolio.vercel.app/)
 
