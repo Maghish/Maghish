@@ -10,7 +10,7 @@
 
  
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,django,mongodb,express,react,nodejs,typescript,next,firebase,vite,tailwind,html,css,js,figma,graphql,vercel,md,vscode,git,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,mongodb,express,react,nodejs,typescript,next,firebase,vite,tailwind,html,css,js,discordjs,discord,bots,figma,graphql,vercel,md,vscode,git,npm,docker&theme=dark)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
