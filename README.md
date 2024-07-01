@@ -18,8 +18,4 @@
 | ------------- | ------------- |
 | <a href="#Maghish-stats"><picture><source srcset="https://github-readme-streak-stats.herokuapp.com?user=Maghish&theme=dracula&border_radius=0&background=FFFFFF00&border=30363D&stroke=30363D&hide_border=true" media="(prefers-color-scheme: dark)" /><source srcset="https://github-readme-streak-stats.herokuapp.com?user=Maghish&theme=buefy&border_radius=0&background=FFFFFF00&border=D0D7DE&stroke=D0D7DE&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /><img src="https://github-readme-streak-stats.herokuapp.com?user=Maghish&theme=buefy&border_radius=0&background=FFFFFF00&border=D0D7DE&stroke=D0D7DE&hide_border=true" alt="Contributions" /></picture></a> | <a href="#Maghish-stats">![Trophies](https://github-profile-trophy.vercel.app/?username=Maghish&theme=dark_lover&row=2&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&margin-w=6&margin-h=6&no-bg=true)</a> |
 
-
-## 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Maghish&limit=5&theme=dracula&bg_color=00000000&combine_all_yearly_contributions=true&hide_border=true)
-
-Thank you for viewing my profile! 👋
+_Thank you for viewing my profile! 👋_
