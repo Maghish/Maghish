@@ -1,6 +1,6 @@
 <img width="1200px" height="300px" src="./standard.gif">
 
-<h1 align="start">Hello 👋, I'm Maghish</h1>
+<h1 align="start">Hello 👋, I'm Maghish </h1>
 <h3 align="start">I'm a programming student, a passionate Full-Stack developer.</h3>
 
 - 🔴 I’m currently learning **Android Studio, Kotlin, Machine Learning, Data Structures and Algothrims**
