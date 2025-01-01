@@ -1,5 +1,3 @@
-<img width="1000px" height="300px" src="./background.gif">
-
 <h1 align="start">Hello 👋, I'm Maghish </h1>
 <h3 align="start">I'm a programming student, a passionate Full-Stack developer.</h3>
 
