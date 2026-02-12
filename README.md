@@ -3,7 +3,7 @@
 <h1 align="start">Hello 👋, I'm Maghish </h1>
 <h3 align="start">I'm a programming student, a passionate Full-Stack developer.</h3>
 
-- 🔴 I’m currently learning **None**
+- 🔴 I’m currently learning **Rust, Tauri, Java, Minecraft Plugin making**
 - 🔴 I’m looking to collaborate on **MERN Stack, Next.js, Django, Discord.py and Discord.js**
 - 🔴 Pronouns: **He/Him**
 - 🔴 [My Portfolio](https://maghi-portfolio.vercel.app/)
